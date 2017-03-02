@@ -16,5 +16,3 @@ foreach ($file in $filelist.fullname)
 }
 
 Write-Host "Job Complete, all files successfully expanded." -ForegroundColor Yellow
-
-# Let's add a comment.
